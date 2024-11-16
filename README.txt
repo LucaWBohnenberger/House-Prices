@@ -1,0 +1,1 @@
+Projeto para testar algumas tecnicas de previsão usando scikit-learn, faz parte do desafio do House Price do kaggle
